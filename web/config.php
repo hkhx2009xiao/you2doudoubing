@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyAurg5k-lp9qQxA_IpC5x48YZ3-cslEQ5Q');
+define('APIKEY', 'AIzaSyCWcEVoFxB8vTcUbtoN1mHgsSkBchOssqM');
 define('GJ_CODE', 'JP');
 define('SITE_NAME', 'hkhx2009xiao');
 define('TITLENAME', 'YouTube');
